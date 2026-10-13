@@ -1,0 +1,9 @@
+# Force a light theme regardless of the viewer's OS/browser preference, and set
+# the healthplans.ai accent palette on a soft, light background.
+[theme]
+base = "light"
+primaryColor = "#2f7dc6"
+backgroundColor = "#f6f9fc"
+secondaryBackgroundColor = "#eef3f9"
+textColor = "#16202f"
+font = "sans serif"
